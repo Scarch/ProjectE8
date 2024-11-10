@@ -1,5 +1,7 @@
 # KAGGLE-BIKE-SHARING-DEMAND (Project E8)
 
+Analysing and predicting bike rental demand based on weather, date and time.
+
 ## Team members
 
 - Sten-Egert Märtson
