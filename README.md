@@ -11,3 +11,8 @@ Analysing and predicting bike rental demand based on weather, date and time.
 
 - https://www.kaggle.com/competitions/bike-sharing-demand/data?select=test.csv
 - https://capitalbikeshare.com/system-data
+
+## TODO
+
+- [ ] Organize files into folders
+- [ ] Make README file more informative
