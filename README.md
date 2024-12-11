@@ -25,7 +25,8 @@ The insight gained from this project could hopefully help optimize bike availabi
 - The folder `capitalBikeshareData` contains the public [system data zip files provided by Capital Bikeshare](https://capitalbikeshare.com/system-data)
 - All of the files provided by the Kaggle [Bike Sharing Demand](https://www.kaggle.com/competitions/bike-sharing-demand/data) competition reside in the folder `kaggleData`
 - `./submissions` folder - *almost* all our submissions to the Kaggle competition (some submissions were overwritten by accident)
-- `analysing_preparing_capitalBikeshareData.ipynb`
+- `./dataVisualisation` folder - data visualisation graphics that were exported for possible addition to the poster
+- `analysing_preparing_capitalBikeshareData.ipynb` - a documented Jupyter Notebook file which covers the data preparation and analysis steps taken regarding the Capital Bikeshare system data
 - `training_ml_model_on_capital_bikeshare_data.ipynb` - a documented Jupyter Notebook file that shows the process of creating three machine learning models and training them on the `bikesRentedPerHourCombinedData.csv` file
 - `best_kaggle_models` - a documneted Jupyter Notebook file that shows the process of creating the best versions (that we found) of machinel learning models that we tested and used in the Kaggle competition
 - `exploring_data.ipynb` - the first steps for analysing the data. The findings were reported in the "*Exploring data*" section of `E8_report.pdf`.
@@ -33,6 +34,8 @@ The insight gained from this project could hopefully help optimize bike availabi
 - `E8_report.pdf` - report for the tasks in homework 10
 
 ## Replicating what we've done
+
+If one wishes to see what conclusions we've reached and how we reached them, they can take a look at our Jupyter Notebook files (ending with `.ipynb`), which cover our actions step by step.
 
 ## TODO
 
